@@ -1,0 +1,6 @@
+/.gtm/
+/node_modules/
+/temp_*/
+/temp-*/
+.DSStore
+**/*.swp
