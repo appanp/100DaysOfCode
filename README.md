@@ -50,15 +50,17 @@ TODO
 
 ### Azure Data Fundas (DP-900) Certification Prep
 
-- [ ] Sections Intro to "How to work with Rel-Data" in Azure Data Fundas [Udemy Course](https://www.udemy.com/course/azure-dp-900/) - total *3 hours*.
-- [ ] Section "How to work with Non-Rel data" to "Analytics workload" in above course - total *4.5 hours*.
+- [ ] Sections Intro to "How to work with Rel Data" in Azure Data Fundas [Udemy Course](https://www.udemy.com/course/azure-dp-900/) - total *3 hours*.
+- [ ] Sections "How to work with Non-Rel data" to "Analytics workload" in above course - total *4.5 hours*.
 
 - [ ] Read the [study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ) for [Azure Data Fundas - DP-900](https://learn.microsoft.com/en-gb/certifications/exams/dp-900)
 - [ ] Take the two mock exams in the above Udemy course
 
-### Azure Fundamentals Certification Prep
+### Azure Fundamentals Certification Prep (AZ-900)
 
-TODO
+- [ ] Watch & take notes from [this FreeCodeCamp youtube video](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - total *3 hours*
+- [ ] Browse thru' the [official study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+- [ ] Skim thru' the 3 learning paths (11 modules) in [this official exam page](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 
 ### Kubernetes for Developers (CKAD Certification)
 
@@ -67,6 +69,26 @@ TODO
 - [ ] Watch the sections "Updates for Sep 2021" to "Lightning Labs" - total 4 hours
 - [ ] Review & take the mock exam #1
 - [ ] Review & take the mock exam #2
+
+### Learn Graph Extension for Redis
+
+- [ ] Install Redis & the required graph extension & create a simple graph
+- [ ] Write nodejs script to extract code dependencies
+- [ ] Create a simple web app to query the Redis graph dats-structures
+    * Do not spend much time on the browser front-end
+
+### Learn CSS3 and Tailwind Library
+
+- [ ] TODO: Need to find learning resources
+- [ ] [Tailwind CSS3 essential training](https://www.linkedin.com/learning/tailwind-css-3-essential-training), LinkedIn learning
+
+### Learn HTTP2, HTML5 and Javascript for Front-end
+
+- [ ] Learn about HTTP2 protocol
+    * Check what protocol messages help in async download
+- [ ] Learn HTML5 tags (TODO: decide the sub-set)
+- [ ] Javascript for the browser: events, etc.
+- [ ] [HTML & CSS Creating forms](https://www.linkedin.com/learning/html-css-creating-forms)
 
 ### Learn Python & Flask
 
@@ -77,8 +99,13 @@ TODO
 ### Learn Ruby & Rails
 
 - [ ] Read chapter 2 in the book [Seven languages in 7 weeks](https://www.oreilly.com/library/view/seven-languages-in/9781680500059)
-- [ ] Code review of open-source (TODO)
+- [ ] Code review of open-source code of [Redmine](https://github.com/redmine/redmine)
 - [ ] Watch the railscasts video on Rails introduction
+- [ ] Write a Redmine plugin to do the following features which helps in CI/CD integration:
+    * Add a new state for version called "UAT-Ready"
+    * Call a webhook when a *version* is set to *locked* 
+    * Call a webhook when a *version* is set to *UAT-Ready*
+    * References: [Diff. between locked/closed](https://www.redmine.org/boards/2/topics/18914), [Versions vs. milestones](https://www.redmine.org/boards/1/topics/214?page=3), [issue #13387](https://www.redmine.org/issues/13387)
 
 ### Learn Golang
 
