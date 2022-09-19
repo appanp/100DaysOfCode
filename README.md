@@ -79,16 +79,22 @@ TODO
 
 ### Learn CSS3 and Tailwind Library
 
-- [ ] TODO: Need to find learning resources
+- [ ] [CSS: Inheritance, specificity & cascade](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade), LinkedIn learning
 - [ ] [Tailwind CSS3 essential training](https://www.linkedin.com/learning/tailwind-css-3-essential-training), LinkedIn learning
 
 ### Learn HTTP2, HTML5 and Javascript for Front-end
 
 - [ ] Learn about HTTP2 protocol
-    * Check what protocol messages help in async download
+    * Check what protocol messages help in async download of large files after generation
+    * How HTTP2 helps in streaming?
+- [ ] [Semantic HTML & CSS code challenges](https://www.linkedin.com/learning/semantic-html-and-css-code-challenges), LinkedIn learning
 - [ ] Learn HTML5 tags (TODO: decide the sub-set)
 - [ ] Javascript for the browser: events, etc.
 - [ ] [HTML & CSS Creating forms](https://www.linkedin.com/learning/html-css-creating-forms)
+- [ ] PDF generation from the browser - order invoice example
+    * Some references: [jsPDF example](https://phppot.com/javascript/html-to-pdf-in-javascript-using-jspdf/), [jsPDF how-to](https://phppot.com/javascript/convert-html-to-pdf-using-jspdf-javascript-library/)
+- [ ] PDF generation on the server-side, required for example for gift certificate.
+    * [pdf-lib](https://github.com/Hopding/pdf-lib) with no dependencies, [doc/help](https://pdf-lib.js.org/docs/help)
 
 ### Learn Python & Flask
 
