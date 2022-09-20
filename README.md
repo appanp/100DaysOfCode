@@ -1,5 +1,6 @@
 
-My 100-days-of-code followed the scheduled is as per the task list below. I had split the 100-days into 15-20 specific topics, each topic stretching to at least 5 days. 
+My 100-days-of-code followed the scheduled is as per the task list below. I had split the 100-days into 25-30 specific topics, each topic stretching to at least 5 days. I had chosen the topics based on my bucket-list of things to study and also the courses that I had bought from udemy (and never gone through them).
+
 
 ### Notes
 
@@ -48,6 +49,12 @@ This itself is a task on its own which is not listed but were done the days prec
 
 TODO
 
+### Azure Fundamentals Certification Prep (AZ-900)
+
+- [ ] Watch & take notes from [this FreeCodeCamp youtube video](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - total *3 hours*
+- [ ] Browse thru' the [official study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+- [ ] Skim thru' the 3 learning paths (11 modules) in [this official exam page](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+
 ### Azure Data Fundas (DP-900) Certification Prep
 
 - [ ] Sections Intro to "How to work with Rel Data" in Azure Data Fundas [Udemy Course](https://www.udemy.com/course/azure-dp-900/) - total *3 hours*.
@@ -56,12 +63,6 @@ TODO
 - [ ] Read the [study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ) for [Azure Data Fundas - DP-900](https://learn.microsoft.com/en-gb/certifications/exams/dp-900)
 - [ ] Take the two mock exams in the above Udemy course
 
-### Azure Fundamentals Certification Prep (AZ-900)
-
-- [ ] Watch & take notes from [this FreeCodeCamp youtube video](https://www.youtube.com/watch?v=NKEFWyqJ5XA) - total *3 hours*
-- [ ] Browse thru' the [official study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
-- [ ] Skim thru' the 3 learning paths (11 modules) in [this official exam page](https://learn.microsoft.com/en-us/certifications/exams/az-900)
-
 ### Kubernetes for Developers (CKAD Certification)
 
 - [ ] Go through the section 1 (Intro) to "Observability" section - total 4 hours in [Udemy CKAD Course](https://www.udemy.com/course/certified-kubernetes-application-developer/)
@@ -69,6 +70,35 @@ TODO
 - [ ] Watch the sections "Updates for Sep 2021" to "Lightning Labs" - total 4 hours
 - [ ] Review & take the mock exam #1
 - [ ] Review & take the mock exam #2
+
+### Azure Data Engineering (DP-203) Certification Prep
+
+- [ ] Modules 1 to 3 in the course [DP-203: Data engineering on Microsoft Azure](https://www.udemy.com/course/dp200exam/), total *6 hours*
+- [ ] Module 4 (Relational Data) in the above course, total *6.5 hours*
+- [ ] Module 5 (Batch processing) in the above course, total *5.5 hours*
+- [ ] Remaining modules in the above course, total *6 hours*
+- [ ] Uncovered topics from [this course (Alan Rodrigues)](https://www.udemy.com/course/data-engineering-on-microsoft-azure/) has some additional topics (compared to the above course)
+- [ ] Mock exam from the Udemy course
+
+### Azure Data Factory (ADF) & COVID Data Project
+
+- [ ] First 7 modules from [this Udemy course](https://www.udemy.com/course/learn-azure-data-factory-from-scratch/) - total *6 hours*
+- [ ] Remaining modules from the above course - total *4 hours*
+
+### Terraform Associate Certification Prep
+
+- [ ] Chapters 1 to 5 from this O'reilly [Terraform Up & Running, 3rd Ed book](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
+- [ ] Chapters 6 to 9 from the above book
+
+
+### Learn Webpack-4 & Webpack-5
+
+- [ ] 
+- [ ] Watch the videos from [this Udemy course]()
+
+### Learn Apache Kafka
+
+- [ ] Watch [this Udemy course](https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class)
 
 ### Learn Graph Extension for Redis
 
