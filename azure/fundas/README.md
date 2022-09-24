@@ -13,3 +13,18 @@
 ## Module 03 - Azure Management Solutions & Ops
 
 
+
+## Day 2: Introduction 
+
+## Azure Security and Network Security 
+
+## Identity, governance, privacy and compliance 
+
+
+## Azure Pricing and Lifestyle 
+
+
+## Resources
+
+1. [Azure updates page](TODO) - RSS feeds
+

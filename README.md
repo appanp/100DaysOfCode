@@ -47,7 +47,8 @@ This itself is a task on its own which is not listed but were done the days prec
 
 ### Learning REST API & GraphQL
 
-TODO
+- [ ] "GraphQL + Apollo Client" section from [this Udemy Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) - total *1 hour*.
+- [ ] freecodecamp's [GraphQL full course - Novide to expert](https://www.youtube.com/watch?v=ed8SzALpx1Q), total *4 hours*.
 
 ### Azure Fundamentals Certification Prep (AZ-900)
 
@@ -87,18 +88,20 @@ TODO
 
 ### Terraform Associate Certification Prep
 
-- [ ] Chapters 1 to 5 from this O'reilly [Terraform Up & Running, 3rd Ed book](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
-- [ ] Chapters 6 to 9 from the above book
-
+- [ ] Watch upto "Variable & Data" from [this freecodecamp video](https://www.youtube.com/watch?v=V4waklkBC38)
+- [ ] Watch upto "Team workflows" from the above video
+- [ ] Watch the remaining part of the above video
+- [ ] Checkout [this repo from stacksimplify](https://github.com/stacksimplify/hashicorp-certified-terraform-associate/)
 
 ### Learn Webpack-4 & Webpack-5
 
-- [ ] 
-- [ ] Watch the videos from [this Udemy course]()
+- [ ] Watch the videos from [this webpack-4 course](https://www.udemy.com/course/webpack-from-beginner-to-advanced/), total *4.5 hours*.
+- [ ] Watch the videos from [this webpack-5 Udemy course](https://www.udemy.com/course/webpack-beyond-the-basics/), total *6 hours*.
 
-### Learn Apache Kafka
+### Learn Apache Kafka Streams with Spring
 
 - [ ] Watch [this Udemy course](https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class)
+- [ ] Try out the hands-on with the help of [spring consumer](https://www.youtube.com/watch?v=IncG0_XSSBg&t=0s), [spring producer](https://www.youtube.com/watch?v=NjHYWEV_E_o&t=0s) and [spring cloud streams](https://www.youtube.com/watch?v=rqjdSbIOrJ4&t=3s)
 
 ### Learn Graph Extension for Redis
 
@@ -109,7 +112,7 @@ TODO
 
 ### Learn CSS3 and Tailwind Library
 
-- [ ] [CSS: Inheritance, specificity & cascade](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade), LinkedIn learning
+- [ ] [CSS: Inheritance, Specificity & Cascade](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade), LinkedIn learning
 - [ ] [Tailwind CSS3 essential training](https://www.linkedin.com/learning/tailwind-css-3-essential-training), LinkedIn learning
 
 ### Learn HTTP2, HTML5 and Javascript for Front-end
@@ -125,6 +128,12 @@ TODO
     * Some references: [jsPDF example](https://phppot.com/javascript/html-to-pdf-in-javascript-using-jspdf/), [jsPDF how-to](https://phppot.com/javascript/convert-html-to-pdf-using-jspdf-javascript-library/)
 - [ ] PDF generation on the server-side, required for example for gift certificate.
     * [pdf-lib](https://github.com/Hopding/pdf-lib) with no dependencies, [doc/help](https://pdf-lib.js.org/docs/help)
+
+### Learn Vuejs-2 and Vuejs-3
+
+- [ ] Watch the first 7 modules from [this Udemy course](https://www.udemy.com/course/vuejs-2-the-complete-guide/) - total *10 hours*
+- [ ] Watch the modules 8 to 15 from the above course - total *10 hours*
+- [ ] Watch the remaining modules from the above course - total *10 hours*
 
 ### Learn Python & Flask
 
@@ -178,3 +187,6 @@ TODO
 
 - [ ] Read [chapter 4](https://learning.oreilly.com/library/view/seven-languages-in/9781680500059/f_0026.html) in the book [Seven languages in 7 weeks](https://www.oreilly.com/library/view/seven-languages-in/9781680500059)
 
+## Additional References
+
+1. O'reilly [Terraform Up & Running, 3rd Ed book](https://www.oreilly.com/library/view/terraform-up-and/9781098116736/)
